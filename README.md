@@ -1,7 +1,7 @@
 
 # Agenda de Contatos com SQLite
 
-A new Flutter application.
+Contacts with SQLite database.
 
 | Tela Principal  | Tela Menus Botom Sheet | Tela Contatos |
 |---| ---| ---|
